@@ -1,0 +1,6 @@
+{
+  "name": "OrbitLab HSC",
+  "description": "Interactive 3D molecular hybridization, VSEPR bond angle explorer, and HSC Chemistry Chapter 3 quiz studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
